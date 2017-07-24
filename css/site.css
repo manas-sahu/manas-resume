@@ -6,7 +6,7 @@
     display: none; } }
 /* elements */
 body {
-  margin: 0 auto;
+  margin: 0px;
   padding: 0px;
   font-family: 'Source Sans Pro',Helvetica,Arial,sans-serif; }
 
@@ -100,7 +100,7 @@ footer {
 
 /* ids */
 #content {
-  margin-left: 1.2em; }
+  margin: 0 auto; }
 
 /* classes */
 .name {
