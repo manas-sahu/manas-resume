@@ -66,27 +66,14 @@
 			"title" : "Software Engineerr",
 			"startDate" : "December 2015",
 			"endDate" : "Present",	
-			"responsibilities" : "- At PAYODA, I work on the ARISTA Team. I am responsible for adding new product features, bug fixes, and transitioning. 
-									- Delivering a complete front-end application
-									- Requirements Gathering and Sprint Planning.
-									- Develop Single Page Application with responsibilities of automating Build process with Grunt and maintaining code quality.
-									- Cooperating with the back-end developer in the process of building the RESTful API
-									- Unit testing with Karma
-									- Using SVN for versioning and revision control system"
+			"responsibilities" : "At PAYODA, I work on the ARISTA Team. I am responsible for adding new product features, bug fixes, and transitioning."
 			},
 		{
 			"company" : "THEOREM",
 			"title" : "Web Developer",
 			"startDate" : "Sptember 2013",
 			"endDate" : "December 2015",
-			"responsibilities" : "- At THEOREM, I work on the Sales Force Team. We are Responsible for working on a range of projects, designing appealing websites and interacting on a daily basis with graphic designers, back -end developers and marketers.
-									- Developing and maintaining the front-end functionality of websites.
-									- Scratch build, converting the mock-ups to web pages using HTML, CSS, jQuery, Media Query, Bootstrap.
-									- Application built in using responsive design.
-									- Testing the app with Litmus to make sure no rendering issues.
-									- Direct interaction with client for requirements
-									- Creating Landing Page/ Micro Pages using Angular JS.
-									- Using Sales Force tool to maintain code."
+			"responsibilities" : "At THEOREM, I work on the Sales Force Team. We are Responsible for working on a range of projects, designing appealing websites and interacting on a daily basis with graphic designers, back -end developers and marketers."
 		}
 	],
 	"education" : [
