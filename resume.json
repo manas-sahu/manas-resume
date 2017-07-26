@@ -19,7 +19,7 @@
 		}
 	],
 	"skills" : [
-		"JavaScript (ECMAScript versions 1.5, ES6 and up)",
+		"JavaScript (ES 5/6)",
 		"JavaScript Unit Testing",
 		"HTML 4/5",
 		"GRUNT",
@@ -32,7 +32,7 @@
 		"AJAX"
 	],
 	"frameworks" : [
-		"Angular JS/2",
+		"Angular JS",
 		"TypeScript",
 		"Redmine",
 		"ESlint",
