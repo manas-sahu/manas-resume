@@ -71,7 +71,7 @@
 			"title" : "Software EngineerrSenior Software Engineer",
 			"startDate" : "December 2015",
 			"endDate" : "Present",	
-			"responsibilities" : "<ul><li>At AMADEUS, I work on the EMM(Event Management Monitoring) Team. I am responsible for adding new product features, bug fixes, and transitioning.</li><li>Delivering a complete front-end application</li><li>Worked in a R&D tool which requires rigorous changes for optimization<li>Always went over and above what is asked</li><li>Requirements Gathering and Sprint Planning<li>Develop Single Page Application with Angular and maintaining code quality</li><li>Co-operating with the back-end developer in the process of building the RESTful API</li><li>Unit testing with Jasmine & Karma</li><li>End to End testing with Protractor</li><li>Using GIT for versioning and revision control system</li></ul>"
+			"responsibilities" : "<ul style='list-style-type:square;'><li>At AMADEUS, I work on the EMM(Event Management Monitoring) Team. I am responsible for adding new product features, bug fixes, and transitioning.</li><li>Delivering a complete front-end application</li><li>Worked in a R&D tool which requires rigorous changes for optimization<li>Always went over and above what is asked</li><li>Requirements Gathering and Sprint Planning<li>Develop Single Page Application with Angular and maintaining code quality</li><li>Co-operating with the back-end developer in the process of building the RESTful API</li><li>Unit testing with Jasmine & Karma</li><li>End to End testing with Protractor</li><li>Using GIT for versioning and revision control system</li></ul>"
 			},
 		{
 			"company" : "PAYODA",
