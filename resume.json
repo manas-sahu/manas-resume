@@ -51,13 +51,18 @@
     "RXJS"
   ],
   "projects": [
+	{
+		"name": "MARS (Mar 2020 – Present)",
+		"technologies": "React 16, Redux, HTML5, SCSS, Bootstrap JavaScript, Jasmine",
+		"description": "Amadeus Event Core (AEC) is an internal R & D project, where whole Event data operations can be operated. It also developed into a plugin that can be implemented by other teams across the Amadeus. It facilitates a search platform by generating dynamic arguments according to user utilization and provides relevant data according to the search. Moreover, it facilitates to manipulate those data as per requirement."
+	},
     {
-      "name": "AEC (Jan 2019 – Present)",
+      "name": "AEC (Jan 2019 – Feb 2020)",
       "technologies": "React 16, Redux, HTML5, SCSS, Bootstrap JavaScript, Jasmine",
       "description": "Amadeus Event Core (AEC) is an internal R & D project, where whole Event data operations can be operated. It also developed into a plugin that can be implemented by other teams across the Amadeus. It facilitates a search platform by generating dynamic arguments according to user utilization and provides relevant data according to the search. Moreover, it facilitates to manipulate those data as per requirement."
     },
     {
-      "name": "UNIPING (July 2017 – Present)",
+      "name": "UNIPING (July 2017 – Feb 2020)",
       "technologies": "Angular 8, HTML5, SCSS, TypeScript, Jasmine, Angular Material, Kendo UI",
       "description": "Uniping is an Amadeus web-based application where one can track server by pinger configuration and can be controlled through the web app by the authorize user. One can, However, simply watch pinger status if he has not authorized to configure the pingers. Uniping is an R&D task request initiative program which consolidates pinger data to reduce the mean time to recover in case of incident. Uniping provides help to all support team across the world inside Amadeus, In case of any server failure it immediately raise ticket to respective server owners by virtue of which immediately one can act on same."
     },
@@ -73,11 +78,18 @@
     }
   ],
   "experience": [
+	{
+		"company": "Globallogic",
+		"title": "Team Leader",
+		"startDate": "December 2015",
+		"endDate": "Present",
+		"responsibilities": "<ul style='list-style-type:square;'><li>At AMADEUS (Client Location), I work on the EMM(Event Management Monitoring) Team. I am responsible for adding new product features, bug fixes, and transitioning.</li><li>Delivering a complete front-end application</li><li>Worked in a R&D tool which requires rigorous changes for optimization<li>Always went over and above what is asked</li><li>Requirements Gathering and Sprint Planning<li>Develop Single Page Application with Angular and maintaining code quality</li><li>Co-operating with the back-end developer in the process of building the RESTful API</li><li>Unit testing with Jasmine & Karma</li><li>End to End testing with Protractor</li><li>Using GIT for versioning and revision control system</li></ul>"
+	},
     {
       "company": "ALten Calsoft Labs",
-      "title": "Software EngineerrSenior Software Engineer",
+      "title": "Senior Software Engineer",
       "startDate": "December 2015",
-      "endDate": "Present",
+      "endDate": "February 2020",
       "responsibilities": "<ul style='list-style-type:square;'><li>At AMADEUS (Client Location), I work on the EMM(Event Management Monitoring) Team. I am responsible for adding new product features, bug fixes, and transitioning.</li><li>Delivering a complete front-end application</li><li>Worked in a R&D tool which requires rigorous changes for optimization<li>Always went over and above what is asked</li><li>Requirements Gathering and Sprint Planning<li>Develop Single Page Application with Angular and maintaining code quality</li><li>Co-operating with the back-end developer in the process of building the RESTful API</li><li>Unit testing with Jasmine & Karma</li><li>End to End testing with Protractor</li><li>Using GIT for versioning and revision control system</li></ul>"
     },
     {
