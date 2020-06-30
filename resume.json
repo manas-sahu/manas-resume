@@ -51,11 +51,11 @@
     "RXJS"
   ],
   "projects": [
-	{
-		"name": "MARS (Mar 2020 – Present)",
-		"technologies": "React 16, Redux, HTML5, SCSS, Bootstrap JavaScript, Jasmine",
-		"description": "Amadeus Event Core (AEC) is an internal R & D project, where whole Event data operations can be operated. It also developed into a plugin that can be implemented by other teams across the Amadeus. It facilitates a search platform by generating dynamic arguments according to user utilization and provides relevant data according to the search. Moreover, it facilitates to manipulate those data as per requirement."
-	},
+    {
+      "name": "MARS (Mar 2020 – Present)",
+      "technologies": "Angular 9, HTML5, SCSS, Angular material, JavaScript, TypeScript, Jest, Azure Devops",
+      "description": "A Veterinarian project, where Doctor's commissions can be calculated & maintained. It is a complex app where contract details of doctors and their pay structure maintained as well"
+    },
     {
       "name": "AEC (Jan 2019 – Feb 2020)",
       "technologies": "React 16, Redux, HTML5, SCSS, Bootstrap JavaScript, Jasmine",
@@ -78,26 +78,26 @@
     }
   ],
   "experience": [
-	{
-		"company": "Globallogic",
-		"title": "Team Leader",
-		"startDate": "December 2015",
-		"endDate": "Present",
-		"responsibilities": "<ul style='list-style-type:square;'><li>At AMADEUS (Client Location), I work on the EMM(Event Management Monitoring) Team. I am responsible for adding new product features, bug fixes, and transitioning.</li><li>Delivering a complete front-end application</li><li>Worked in a R&D tool which requires rigorous changes for optimization<li>Always went over and above what is asked</li><li>Requirements Gathering and Sprint Planning<li>Develop Single Page Application with Angular and maintaining code quality</li><li>Co-operating with the back-end developer in the process of building the RESTful API</li><li>Unit testing with Jasmine & Karma</li><li>End to End testing with Protractor</li><li>Using GIT for versioning and revision control system</li></ul>"
-	},
+    {
+      "company": "Globallogic",
+      "title": "Team Leader",
+      "startDate": "December 2015",
+      "endDate": "Present",
+      "responsibilities": "<ul style='list-style-type:square;'><li>GlobalLogic is a Digital Product Engineering Services company that was founded in 2000. Working with MARS Team.</li><li>Defined and conducted design processes at all stages, including research, conceptualization, testing and implementation.</li><li>Translated concepts into user flows, wireframes, mock-ups and prototypes to promote positive intuitive designs, site interactions and user experiences.<li>Requirements Gathering and Sprint Planning<li>Develop Single Page Application with Angular and maintaining code quality</li><li>Co-operating with the back-end developer in the process of building the RESTful API</li><li>Unit testing with Jest</li><li>Using GIT for versioning and revision control system</li><li>Code base maintained and sprint plan conducted in Azure Dev Ops</li></ul>"
+    },
     {
       "company": "ALten Calsoft Labs",
       "title": "Senior Software Engineer",
       "startDate": "December 2015",
       "endDate": "February 2020",
-      "responsibilities": "<ul style='list-style-type:square;'><li>At AMADEUS (Client Location), I work on the EMM(Event Management Monitoring) Team. I am responsible for adding new product features, bug fixes, and transitioning.</li><li>Delivering a complete front-end application</li><li>Worked in a R&D tool which requires rigorous changes for optimization<li>Always went over and above what is asked</li><li>Requirements Gathering and Sprint Planning<li>Develop Single Page Application with Angular and maintaining code quality</li><li>Co-operating with the back-end developer in the process of building the RESTful API</li><li>Unit testing with Jasmine & Karma</li><li>End to End testing with Protractor</li><li>Using GIT for versioning and revision control system</li></ul>"
+      "responsibilities": "<ul style='list-style-type:square;'><li>At AMADEUS (Client Location), Worked with EMM(Event Management Monitoring) Team. I was responsible for adding new product features, bug fixes, and transitioning.</li><li>Delivering a complete front-end application</li><li>Worked in a R&D tool which requires rigorous changes for optimization<li>Always went over and above what is asked</li><li>Requirements Gathering and Sprint Planning<li>Develop Single Page Application with Angular and maintaining code quality</li><li>Co-operated with the back-end developer in the process of building the RESTful API</li><li>Unit testing with Jasmine & Karma</li><li>End to End testing with Protractor</li><li>Used GIT for versioning and revision control system</li></ul>"
     },
     {
       "company": "PAYODA",
       "title": "Software Engineer",
       "startDate": "December 2015",
       "endDate": "July 2017",
-      "responsibilities": "At PAYODA, I work on the ARISTA Team. I am responsible for adding new product features, bug fixes, and transitioning."
+      "responsibilities": "At PAYODA, Worked with ARISTA Team. I am responsible for adding new product features, bug fixes, and transitioning."
     },
     {
       "company": "THEOREM",
