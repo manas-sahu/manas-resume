@@ -1,7 +1,7 @@
 {
   "name": "Manas Ranjan Sahu",
-  "title": "Team Lead",
-  "contact": "manas.sahu.one@gmail.com | +91 9036372089",
+  "title": "Tech Lead / Senior Software Engineer",
+  "contact": "manas.sahu.one@gmail.com",
   "objective": "To make high-quality, exciting, applications that people love to use on any device while working with other smart and highly motivated engineers.",
   "aboutme": "",
   "social": [
@@ -24,46 +24,46 @@
     "CSS3",
     "GIT",
     "Media Query",
-    "SVN",
     "JSON",
     "AJAX",
     "Unit Testing"
   ],
   "frameworks": [
-    "Angular JS/4/9/10",
+    "Angular JS/14",
     "NgRx",
     "React JS",
     "Redux",
-    "LESS",
     "SCSS",
-    "jQuery",
     "Underscore.js",
     "Jasmine",
     "Jest",
     "KARMA",
-    "LESS",
-    "Grunt",
     "Webpack",
+    "Vite",
     "BOOTSTRAP",
-    "Litmus",
     "Angular Material",
     "RXJS",
     "Type Script"
   ],
   "projects": [
     {
-      "name": "MARS (Mar 2020 – Present)",
-      "technologies": "ReactJS, Redux, HTML5, SCSS, Bootstrap JavaScript, Jest, Microsoft Azure",
+      "name": "xStudio (Dec 2022 – Present)",
+      "technologies": "ReactJS, Redux, HTML5, Styled Component, TypeScript, Vitest, PlayWright",
+      "description": "A 3D rendering platform, where one can render a product in multiple virtual environments. Once rendered/finalized one can export the images to use in various social or work platforms in various formats."
+    },
+    {
+      "name": "MARS (Mar 2020 – Nov 2022)",
+      "technologies": "ReactJS, Redux, HTML5, SCSS, Bootstrap TypeScript, Jest, Microsoft Azure",
       "description": "A Veterinarian project, where Doctor's commissions can be calculated & maintained. It is a complex app where contract details of doctors and their pay structure maintained as well"
     },
     {
       "name": "AEC (Jan 2019 – Feb 2020)",
-      "technologies": "ReactJS, Redux, HTML5, SCSS, Bootstrap JavaScript, Jasmine",
+      "technologies": "ReactJS, Redux, HTML5, SCSS, Bootstrap, TypeScript, Jest, Cypress",
       "description": "Amadeus Event Core (AEC) is an internal R & D project, where whole Event data operations can be operated. It also developed into a plugin that can be implemented by other teams across the Amadeus. It facilitates a search platform by generating dynamic arguments according to user utilization and provides relevant data according to the search. Moreover, it facilitates to manipulate those data as per requirement."
     },
     {
       "name": "UNIPING (July 2017 – Feb 2020)",
-      "technologies": "Angular 8, HTML5, SCSS, TypeScript, Jasmine, Angular Material, Kendo UI",
+      "technologies": "Angular 12, HTML5, SCSS, TypeScript, Jasmine, Angular Material, Kendo UI",
       "description": "Uniping is an Amadeus web-based application where one can track server by pinger configuration and can be controlled through the web app by the authorize user. One can, However, simply watch pinger status if he has not authorized to configure the pingers. Uniping is an R&D task request initiative program which consolidates pinger data to reduce the mean time to recover in case of incident. Uniping provides help to all support team across the world inside Amadeus, In case of any server failure it immediately raise ticket to respective server owners by virtue of which immediately one can act on same."
     },
     {
@@ -79,10 +79,17 @@
   ],
   "experience": [
     {
+      "company": "3DExcite - Dassault Systèmes",
+      "title": "Senior Software Engineer",
+      "startDate": "December 2022",
+      "endDate": "Present",
+      "responsibilities": "<ul style='list-style-type:square;'><li>Joined the R&D Team to excel in the virtualization and 3D worlds.</li></ul>"
+    },
+    {
       "company": "Globallogic",
       "title": "Team Leader",
       "startDate": "March 2020",
-      "endDate": "Present",
+      "endDate": "November 2022",
       "responsibilities": "<ul style='list-style-type:square;'><li>GlobalLogic is a Digital Product Engineering Services company that was founded in 2000. Working with MARS Team.</li><li>Defined and conducted design processes at all stages, including research, conceptualization, testing and implementation.</li><li>Translated concepts into user flows, wireframes, mock-ups and prototypes to promote positive intuitive designs, site interactions and user experiences.<li>Requirements Gathering and Sprint Planning<li>Develop Single Page Application with Angular and maintaining code quality</li><li>Co-operating with the back-end developer in the process of building the RESTful API</li><li>Unit testing with Jest</li><li>Using GIT for versioning and revision control system</li><li>Code base maintained and sprint plan conducted in Azure Dev Ops</li></ul>"
     },
     {

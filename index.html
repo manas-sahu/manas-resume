@@ -1,91 +1,93 @@
 <!DOCTYPE html>
 <html>
-	<head>		
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
-		
-		<link rel="stylesheet" type="text/css" href="css/site.css">
-		<link href='https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" type="text/css" media="screen and (max-width: 480px)" href="css/small.css" />
-		<title></title>
-		<!--[if lt IE 9]>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+
+	<link rel="stylesheet" type="text/css" href="css/site.css">
+	<link href='https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" media="screen and (max-width: 480px)" href="css/small.css" />
+	<title></title>
+	<!--[if lt IE 9]>
 		<script src="js/html5shiv.js"></script>
 		<![endif]-->
-	</head>
-	<body>
-		<nav>
-			<ul data-content="social">
-				
+</head>
+
+<body>
+	<nav>
+		<ul data-content="social">
+
+		</ul>
+	</nav>
+
+	<div id="content">
+		<section>
+			<h1 data-content="name" class="name"></h1>
+			<h2 data-content="title"></h2>
+			<section id="contact">
+			</section>
+		</section>
+
+		<section id="objective">
+			<h1>Objective</h1>
+			<p data-content="objective"></p>
+		</section>
+
+		<section id="aboutme">
+			<h1>Executive Summary</h1>
+			<p data-content="aboutme"></p>
+		</section>
+
+		<section id="skills">
+			<h1>Skills / Languages</h1>
+			<ul data-content="skills" class="double">
 			</ul>
-		</nav>
+		</section>
 
-		<div id="content">
-			<section>
-				<h1 data-content="name" class="name"></h1>
-				<h2 data-content="title"></h2>
-				<section id="contact">
-				</section>
-			</section>
-			
-			<section id="objective">
-				<h1>Objective</h1>
-				<p data-content="objective"></p>
-			</section>
+		<section id="frameworks">
+			<h1>Frameworks / Libraries / Data Formats</h1>
+			<ul data-content="frameworks" class="double">
 
-			<section id="aboutme">
-				<h1>Executive Summary</h1>
-				<p data-content="aboutme"></p>
-			</section>
+			</ul>
+		</section>
 
-			<section id="skills">
-				<h1>Skills / Languages</h1>
-				<ul data-content="skills" class="double">
-				</ul>
-			</section>
+		<section id="projects">
+			<h1>Projects</h1>
+			<ul data-content="projects">
+			</ul>
+		</section>
 
-			<section id="frameworks">
-				<h1>Frameworks / Libraries / Data Formats</h1>
-				<ul data-content="frameworks" class="double">
-				
-				</ul>
-			</section>
+		<section id="experience">
+			<h1>Experience</h1>
+			<ul data-content="experience">
 
-			<section id="projects">
-				<h1>Projects</h1>
-				<ul data-content="projects">
-				</ul>
-			</section>
+			</ul>
+		</section>
+		<section id="education">
+			<h1>Education</h1>
+			<ul data-content="education">
+			</ul>
+		</section>
+	</div>
 
-			<section id="experience">
-				<h1>Experience</h1>
-				<ul data-content="experience">
-					
-				</ul>
-			</section>
-			<section id="education">
-				<h1>Education</h1>
-				<ul data-content="education">
-				</ul>
-			</section>
-		</div>
+	<footer>
+		Last updated : 2023
+	</footer>
 
-		<footer>
-			Last updated : 2021
-		</footer>
-
-		<script type="text/template" id="skills-template">
+	<script type="text/template" id="skills-template">
 			<li>
 				${skills}
 			</li>
 		</script>
 
-		<script type="text/template" id="frameworks-template">
+	<script type="text/template" id="frameworks-template">
 			<li>
 				${frameworks}
 			</li>
 		</script>
 
-		<script type="text/template" id="speaking-template">
+	<script type="text/template" id="speaking-template">
 			<li>
 				<section>
 					<ul>
@@ -106,7 +108,7 @@
 			</li>
 		</script>
 
-		<script type="text/template" id="projects-template">
+	<script type="text/template" id="projects-template">
 			<li>
 				<section>
 					<ul>
@@ -127,7 +129,7 @@
 			</li>
 		</script>
 
-		<script type="text/template" id="education-template">
+	<script type="text/template" id="education-template">
 			<li>
 				<section>
 					<ul>
@@ -152,7 +154,7 @@
 			</li>
 		</script>
 
-		<script type="text/template" id="experience-template">
+	<script type="text/template" id="experience-template">
 			<li>
 				<section>
 					<ul>
@@ -177,16 +179,16 @@
 			</li>
 		</script>
 
-		<script type="text/template" id="social-template">
+	<script type="text/template" id="social-template">
 			<li><a href="${link}" target="_blank">${name}</a></li>
 		</script>
 
-		<script type="text/javascript" src="js/jsonme.min.js"></script>
-		<script type="text/javascript">
-			snack.ready( function( ) {
-				window.app.loadData( );
-			} )
-		</script>
-	</body>
-</html>
+	<script type="text/javascript" src="js/jsonme.min.js"></script>
+	<script type="text/javascript">
+		snack.ready(function () {
+			window.app.loadData();
+		})
+	</script>
+</body>
 
+</html>
