@@ -47,12 +47,12 @@
   ],
   "projects": [
     {
-      "name": "xStudio (Dec 2022 – Present)",
-      "technologies": "ReactJS, Redux, HTML5, Styled Component, TypeScript, Vitest, PlayWright",
-      "description": "A 3D rendering platform, where one can render a product in multiple virtual environments. Once rendered/finalized one can export the images to use in various social or work platforms in various formats."
+      "name": "SES Satellite (Sep 2023 – Present)",
+      "technologies": "ReactJS, Redux, TypeScript, HTML5, SCSS, Tailwind, Storybook, Vitest, Cypress",
+      "description": "Working for a popular German TV application, HD+, which offers over 80 HD channels and a variety of features such as pause live TV, restart, and access to media libraries."
     },
     {
-      "name": "MARS (Mar 2020 – Nov 2022)",
+      "name": "MARS (Mar 2020 – Dec 2022)",
       "technologies": "ReactJS, Redux, HTML5, SCSS, Bootstrap TypeScript, Jest, Microsoft Azure",
       "description": "A Veterinarian project, where Doctor's commissions can be calculated & maintained. It is a complex app where contract details of doctors and their pay structure maintained as well"
     },
@@ -79,17 +79,17 @@
   ],
   "experience": [
     {
-      "company": "3DExcite - Dassault Systèmes",
+      "company": "SES Satellite",
       "title": "Senior Software Engineer",
-      "startDate": "December 2022",
+      "startDate": "September 2023",
       "endDate": "Present",
-      "responsibilities": "<ul style='list-style-type:square;'><li>Joined the R&D Team to excel in the virtualization and 3D worlds.</li></ul>"
+      "responsibilities": "<ul style='list-style-type:square;'><li>Joined the HD+ Team.</li></ul>"
     },
     {
       "company": "Globallogic",
       "title": "Lead Software Engineer",
       "startDate": "March 2020",
-      "endDate": "November 2022",
+      "endDate": "December 2022",
       "responsibilities": "<ul style='list-style-type:square;'><li>GlobalLogic is a Digital Product Engineering Services company that was founded in 2000. Working with MARS Team.</li><li>Defined and conducted design processes at all stages, including research, conceptualization, testing and implementation.</li><li>Translated concepts into user flows, wireframes, mock-ups and prototypes to promote positive intuitive designs, site interactions and user experiences.<li>Requirements Gathering and Sprint Planning<li>Develop Single Page Application with Angular and maintaining code quality</li><li>Co-operating with the back-end developer in the process of building the RESTful API</li><li>Unit testing with Jest</li><li>Using GIT for versioning and revision control system</li><li>Code base maintained and sprint plan conducted in Azure Dev Ops</li></ul>"
     },
     {
